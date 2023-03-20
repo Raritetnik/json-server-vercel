@@ -46,7 +46,7 @@
   "projets": [
     {
       "id": 1,
-      "title": "liste des filmes",
+      "title": "Liste des Filmes",
       "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
       "tags": [ "React", "Rest API" ],
       "urlDemo": "https://film-store.vercel.app/accueil",
@@ -55,7 +55,7 @@
     },
     {
       "id": 2,
-      "title": "liste des filmes",
+      "title": "Liste des Filmes",
       "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
       "tags": [ "React", "Rest API" ],
       "urlDemo": "https://film-store.vercel.app/accueil",
@@ -64,7 +64,7 @@
     },
     {
       "id": 3,
-      "title": "liste des filmes",
+      "title": "Liste des Filmes",
       "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
       "tags": [ "React", "Rest API" ],
       "urlDemo": "https://film-store.vercel.app/accueil",
@@ -73,7 +73,7 @@
     },
     {
       "id": 4,
-      "title": "liste des filmes",
+      "title": "Liste des Filmes",
       "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
       "tags": [ "React", "Rest API" ],
       "urlDemo": "https://film-store.vercel.app/accueil",
