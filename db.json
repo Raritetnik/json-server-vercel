@@ -20,8 +20,29 @@
       "description": "Super-Hero partners Scott Lang (Paul Rudd) and Hope van Dyne (Evangeline Lilly) return to continue their adventures as Ant-Man and the Wasp. Together, with Hope's parents Janet van Dyne (Michelle Pfeiffer) and Hank Pym (Michael Douglas), and Scott's daughter Cassie Lang (Kathryn Newton), the family finds themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
       "prix": 22.99,
       "categorie": "Action, Adventure, Fantasy, Comedy"
+    },
+    {
+      "id": 4,
+      "nom": "CHAMPIONS",
+      "prix": 15.99,
+      "categorie": "Comedy",
+      "description": "Woody Harrelson stars in the hilarious and heartwarming story of a former minor-league basketball coach who, after a series of missteps, is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined."
+    },
+    {
+      "id": 5,
+      "nom": "TU JHOOTHI MAIN MAKKAAR",
+      "prix": 5.78,
+      "categorie": "Romance, Comedy",
+      "description": "Madness ensues when a 'Player' in the world of romantic relationships finds a girl who's a worthy opponent. Tu Jhoothi Main Makkaar is a film that believes Love is a battle of wits."
     }
   ],
+
+
+
+
+
+
+
   "projets": [
     {
       "id": 1,
@@ -58,20 +79,6 @@
       "urlDemo": "https://film-store.vercel.app/accueil",
       "urlGit": "https://github.com/Raritetnik/film-store",
       "urlImage": "https://cdn-icons-png.flaticon.com/512/1085/1085795.png"
-    },
-    {
-      "id": 5,
-      "nom": "CHAMPIONS",
-      "prix": 15.99,
-      "categorie": "Comedy",
-      "description": "Woody Harrelson stars in the hilarious and heartwarming story of a former minor-league basketball coach who, after a series of missteps, is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined."
-    },
-    {
-      "id": 6,
-      "nom": "TU JHOOTHI MAIN MAKKAAR",
-      "prix": 5.78,
-      "categorie": "Romance, Comedy",
-      "description": "Madness ensues when a 'Player' in the world of romantic relationships finds a girl who's a worthy opponent. Tu Jhoothi Main Makkaar is a film that believes Love is a battle of wits."
     }
   ]
 
