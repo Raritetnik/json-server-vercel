@@ -55,12 +55,12 @@
     },
     {
       "id": 2,
-      "title": "Liste des Filmes",
-      "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
-      "tags": [ "React", "Rest API" ],
-      "urlDemo": "https://film-store.vercel.app/accueil",
-      "urlGit": "https://github.com/Raritetnik/film-store",
-      "urlImage": "https://cdn-icons-png.flaticon.com/512/1085/1085795.png"
+      "title": "Agriculture (en cours)",
+      "description": "Je travaille sur un projet pratique durant mon temps libre, qui porte sur le thème de l'agriculture et de la santé. Le site est dédié à cette thématique.",
+      "tags": [ "React.JS", "Next.JS", "Tailwind CSS" ],
+      "urlDemo": "https://agriculture-site.vercel.app/",
+      "urlGit": "https://github.com/Raritetnik/agriculture-site",
+      "urlImage": "blob:https://vercel.com/de00b3a0-52ab-4d39-8db0-9fec7ea799dd"
     },
     {
       "id": 3,
