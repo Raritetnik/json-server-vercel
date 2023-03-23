@@ -46,15 +46,6 @@
   "projets": [
     {
       "id": 1,
-      "title": "Liste des Filmes",
-      "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
-      "tags": [ "React", "Rest API" ],
-      "urlDemo": "https://film-store.vercel.app/accueil",
-      "urlGit": "https://github.com/Raritetnik/film-store",
-      "urlImage": "https://cdn-icons-png.flaticon.com/512/1085/1085795.png"
-    },
-    {
-      "id": 2,
       "title": "Agriculture (en cours)",
       "description": "Je travaille sur un projet pratique durant mon temps libre, qui porte sur le thème de l'agriculture et de la santé. Le site est dédié à cette thématique.",
       "tags": [ "React.JS", "Next.JS", "Tailwind CSS" ],
@@ -63,13 +54,22 @@
       "urlImage": "https://i.ibb.co/smMdSsh/de00b3a0-52ab-4d39-8db0-9fec7ea799dd.png"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Restaurant (en cours)",
       "description": "Dans le cadre de ce projet d'étude, j'ai l'objectif de développer un site web en utilisant Vue.JS pour gérer les commandes. Les fonctionnalités incluront l'affichage, la modification et la suppression des commandes à partir d'une base de données. L'utilisateur pourra donc facilement consulter l'état de ses commandes et effectuer des modifications si nécessaire.",
       "tags": [ "Vue.JS", "Bootstrap" ],
       "urlDemo": "https://resto-prj-mk.vercel.app",
       "urlGit": "https://github.com/Raritetnik/resto-prj_mk",
       "urlImage": "https://i.ibb.co/gVZtC3s/02dda67a-2c1c-4721-97de-fe570498c704.png"
-    }
+    },
+    {
+      "id": 3,
+      "title": "Liste des Filmes",
+      "description": "Un panier de films contenant le titre, la description et le prix associé à chaque film. L'utilisateur a la possibilité d'ajouter de nouveaux films, de modifier les films existants ou de les supprimer.",
+      "tags": [ "React", "Rest API" ],
+      "urlDemo": "https://film-store.vercel.app/accueil",
+      "urlGit": "https://github.com/Raritetnik/film-store",
+      "urlImage": "https://cdn-icons-png.flaticon.com/512/1085/1085795.png"
+    },
   ]
 }
