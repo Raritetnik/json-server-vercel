@@ -61,6 +61,15 @@
       "urlDemo": "https://agriculture-site.vercel.app/",
       "urlGit": "https://github.com/Raritetnik/agriculture-site",
       "urlImage": "https://i.ibb.co/smMdSsh/de00b3a0-52ab-4d39-8db0-9fec7ea799dd.png"
+    },
+    {
+      "id": 3,
+      "title": "Restaurant (en cours)",
+      "description": "Dans le cadre de ce projet d'étude, j'ai l'objectif de développer un site web en utilisant Vue.JS pour gérer les commandes. Les fonctionnalités incluront l'affichage, la modification et la suppression des commandes à partir d'une base de données. L'utilisateur pourra donc facilement consulter l'état de ses commandes et effectuer des modifications si nécessaire.",
+      "tags": [ "Vue.JS", "Bootstrap" ],
+      "urlDemo": "https://resto-prj-mk.vercel.app",
+      "urlGit": "https://github.com/Raritetnik/resto-prj_mk",
+      "urlImage": "https://i.ibb.co/gVZtC3s/02dda67a-2c1c-4721-97de-fe570498c704.png"
     }
   ]
 }
