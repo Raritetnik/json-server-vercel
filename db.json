@@ -46,7 +46,7 @@
   "projets": [
     {
       "id": 2,
-      "title": "Restaurant (en cours)",
+      "title": "Restaurant",
       "description": "Dans le cadre de ce projet d'étude, j'ai l'objectif de développer un site web en utilisant Vue.JS pour gérer les commandes. Les fonctionnalités incluront l'affichage, la modification et la suppression des commandes à partir d'une base de données. L'utilisateur pourra donc facilement consulter l'état de ses commandes et effectuer des modifications si nécessaire.",
       "tags": [ "Vue.JS", "Bootstrap" ],
       "urlDemo": "https://resto-prj-mk.vercel.app",
