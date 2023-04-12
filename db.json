@@ -70,6 +70,17 @@
       "urlDemo": "https://film-store.vercel.app/accueil",
       "urlGit": "https://github.com/Raritetnik/film-store",
       "urlImage": "https://cdn-icons-png.flaticon.com/512/1085/1085795.png"
+    },
+    {
+      "id": 4,
+      "title": "Translator Application",
+      "description": "Une application traducteur conçu sur React avec l'autilisation de l'API Google Translator. L'utilisateur peut saisir son text en anglais et choisir la langue de traduction qu'il veut parmis les options.",
+      "tags": [ "React", "Rest API", "Tailwind CSS" ],
+      "urlDemo": " https://easy-translate-sigma.vercel.app/",
+      "urlGit": "https://github.com/Raritetnik/easyTranslate",
+      "urlImage": "https://i.ibb.co/pb1f3W8/image.png"
     }
+    
+        https://easy-translate-sigma.vercel.app/
   ]
 }
