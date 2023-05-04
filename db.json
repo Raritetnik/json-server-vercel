@@ -65,7 +65,7 @@
     {
       "id": 5,
       "title": "Wine Not",
-      "description": "Le site WEB, orienté sur les platformes mobile, de celliers éléctronique. L'utilisateur peut trouver des bouteilles de SAQ réels et faire la gestion de ces bouteilles de vins à distance. Grand projet en équipe de 4 personne. L'application est",
+      "description": "Le site web de gestion de celliers électroniques est orienté vers les plateformes mobiles. Les utilisateurs peuvent y trouver des bouteilles de la SAQ et gérer leur collection de vins à distance. Ce projet ambitieux est réalisé par une équipe de 4 personnes et l'application est en cours de développement.",
       "tags": [ "Laravel", "Vue 3", "Blade", "Tailwind CSS" ],
       "urlDemo": "mykhaelf1.sg-host.com",
       "urlGit": "https://github.com/Raritetnik/wine-not",
