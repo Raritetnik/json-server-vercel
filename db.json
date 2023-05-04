@@ -61,6 +61,15 @@
       "urlDemo": " https://easy-translate-sigma.vercel.app/",
       "urlGit": "https://github.com/Raritetnik/easyTranslate",
       "urlImage": "https://i.ibb.co/pb1f3W8/image.png"
+    },
+    {
+      "id": 5,
+      "title": "Wine Not",
+      "description": "Le site WEB, orienté sur les platformes mobile, de celliers éléctronique. L'utilisateur peut trouver des bouteilles de SAQ réels et faire la gestion de ces bouteilles de vins à distance. Grand projet en équipe de 4 personne. L'application est",
+      "tags": [ "Laravel", "Vue 3", "Blade", "Tailwind CSS" ],
+      "urlDemo": "mykhaelf1.sg-host.com",
+      "urlGit": "https://github.com/Raritetnik/wine-not",
+      "urlImage": "https://i.ibb.co/SRp19C6/image-2023-05-04-095447716.png"
     }
   ]
 }
